@@ -1,0 +1,4 @@
+I am creating a new branch named "dev" From the main branch. 
+Creating a new branch is like stepping into an alternative timeline. We create a duplicate of the current state of our main branch at that exact moment, any changes we make in the new dev branch does not affect the main branch(parallel universe). This keeps the main timeline untouched and safe.
+
+By merging the two branches all the commits created in dev gets applied directly to the main branch, it updates the main project history.
